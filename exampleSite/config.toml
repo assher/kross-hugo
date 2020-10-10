@@ -1,4 +1,4 @@
-baseURL = "http://examplesite.com"
+baseURL = "https://broig-test.netlify.com"
 languageCode = "es-es"
 summaryLength = "10"
 theme = "kross-hugo"

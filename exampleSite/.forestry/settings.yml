@@ -6,6 +6,13 @@ webhook_url:
 sections:
 - type: heading
   label: Blog Post
+- type: directory
+  path: exampleSite/content/blog
+  label: posts
+  create: all
+  match: "**/*"
+  templates:
+  - post
 - type: heading
   label: Author
 - type: heading

@@ -7,14 +7,6 @@ title = "Bernat Roig"
 URL = "contact"
 name = "Contact"
 weight = 4
-[[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 3
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 2
 [params]
 address = ""
 author = "Bernat Roig"

@@ -11,6 +11,8 @@ sections:
   label: Portfolio
   create: all
   match: "**/*"
+  templates:
+  - portfolio
 - type: heading
   label: Blog Post
 - type: directory

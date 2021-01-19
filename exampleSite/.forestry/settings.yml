@@ -8,7 +8,7 @@ sections:
   label: Portfolio
 - type: document
   path: exampleSite/content/portfolio
-  label: projects
+  label: project
   match: "**/*"
 - type: heading
   label: Blog Post

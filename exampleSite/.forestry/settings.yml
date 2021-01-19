@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: BackOffice
 webhook_url: api
 sections:
+- type: document
+  path: exampleSite/content/contact
+  label: Contact
+  match: "**/*"
 - type: heading
   label: Portfolio
 - type: directory

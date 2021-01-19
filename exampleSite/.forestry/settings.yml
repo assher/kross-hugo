@@ -4,12 +4,12 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: heading
+  label: Portfolio
 - type: document
   path: exampleSite/content/portfolio
   label: projects
   match: "**/*"
-- type: heading
-  label: Portfolio
 - type: heading
   label: Blog Post
 - type: directory

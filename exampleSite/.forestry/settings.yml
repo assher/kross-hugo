@@ -6,9 +6,11 @@ webhook_url:
 sections:
 - type: heading
   label: Portfolio
-- type: document
-  path: exampleSite/content/portfolio/**/*
-  label: project
+- type: directory
+  path: exampleSite/content/portfolio
+  label: Portfolio
+  create: all
+  match: "**/*"
 - type: heading
   label: Blog Post
 - type: directory

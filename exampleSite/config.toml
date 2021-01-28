@@ -4,6 +4,10 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Bernat Roig"
 [[menu.main]]
+name = "Google"
+url = "https://gogle.es"
+weight = 5
+[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 4

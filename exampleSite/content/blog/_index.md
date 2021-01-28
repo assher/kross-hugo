@@ -4,6 +4,6 @@ description: This is meta description.
 menu:
   main:
     URL: blog
-    weight: 1
+    weight: 2
 
 ---

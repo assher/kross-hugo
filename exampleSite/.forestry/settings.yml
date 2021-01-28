@@ -36,6 +36,9 @@ sections:
   label: Homepage
   create: all
   match: "**/*"
+  templates:
+  - home
+  - about
 - type: heading
   label: Configuration
 upload_dir: exampleSite/static/images

@@ -96,9 +96,3 @@ icon = "ti-dribbble"
 [[params.social]]
 URL = "#"
 icon = "ti-twitter-alt"
-# default configuration
-baseURL = "http://examplesite.com"
-languageCode = "en-us"
-summaryLength = "10"
-theme = "kross-hugo"
-title = "Kross"

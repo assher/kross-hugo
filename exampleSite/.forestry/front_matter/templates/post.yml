@@ -23,4 +23,5 @@ fields:
   label: description
   description: meta description
 pages:
+- exampleSite/content/blog/asdfdf.md
 - exampleSite/content/blog/dsfsd.md

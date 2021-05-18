@@ -1,5 +1,5 @@
 +++
-categories = ["Development"]
+categories = ["Node JS + Vue", "Node JS", "Laravel + Angular", "Laravel", "PrestaShop", "WordPress"]
 client = "qwerty"
 date = 2021-01-19T11:00:00Z
 description = "sdf sdf sdf sdsdf s"
